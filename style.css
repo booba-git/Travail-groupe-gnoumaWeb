@@ -19,6 +19,22 @@ font-family: 'Source Sans Pro';
 #mainNav ul li :hover{
     color: #EE5A24;
 }
+/*ligne horizontale*/
+.divider-custom-line {
+  width: 100%;
+  max-width: 7rem;
+  height: 0.25rem;
+  background-color: #006266;
+  border-radius: 1rem;
+  border-color: #006266 !important;
+}
+#lgn{
+    padding-bottom: 20px;
+}
+.divider-custom-icon{
+ line-height: 1px ;
+    color: #EE5A24;
+}
 
 /*Mise en forme sevices */
 
@@ -28,7 +44,7 @@ font-family: 'Source Sans Pro';
 #services h3{
     text-align: center;
     text-transform: uppercase;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     color: #EE5A24;
 }
 #services h4{
@@ -182,4 +198,10 @@ section#contact :-ms-input-placeholder {
 #Button-1:hover{
     background: #e67e22;
 }
+
+
+
+
+
+
 
