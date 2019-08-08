@@ -26,7 +26,7 @@ font-family: 'Source Sans Pro';
   height: 0.25rem;
   background-color: #006266;
   border-radius: 1rem;
-  border-color: #006266 !important;
+  border-color: #006266 ;
 }
 #lgn{
     padding-bottom: 20px;
@@ -57,28 +57,31 @@ font-family: 'Source Sans Pro';
 
 #step-1{ 
 background: url("Steps-Icon-1.png") no-repeat top center;
-    padding-top:140px;
-    font-size: 0.875em;
+     padding-top:140px;
+     font-size: 0.875em;
 font-family: 'Source Sans Pro';
 font-weight: 400;
 color: #3e5d7e;
 }
 #step-2{ 
 background: url("Steps-Icon-2.png") no-repeat top center;
-    padding-top:140px;
-    font-size: 0.875em;
+     padding-top:140px;
+     font-size: 0.875em;
 font-family: 'Source Sans Pro';
 font-weight: 400;
 color: #3e5d7e;
+   
 }
 #step-3{ 
 background: url("Steps-Icon-3.png") no-repeat top center;
-    padding-top:140px;
-    font-size: 0.875em;
+     padding-top:140px;
+     font-size: 0.875em;
 font-family: 'Source Sans Pro';
 font-weight: 400;
 color: #3e5d7e;
+
 }
+
 /* Mise en forme a propos*/
 #about{
    
@@ -90,8 +93,8 @@ color: #3e5d7e;
 
 #about h1{
     text-align: center;
-   padding-top:40px;
-    margin-bottom: 40px;
+   padding-top:30px;
+    margin-bottom: 20px;
  color: #EE5A24;
     
 }
